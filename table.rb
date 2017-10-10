@@ -10,9 +10,9 @@ class Table < Furniture
     
     # attr_accessor :seating
     
-    def initialize(seating)
-        @seating = seating
-    end
+    # def initialize(seating)
+    #     @seating = seating
+    # end
     
     def seating
         seats = 7
